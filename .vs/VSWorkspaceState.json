@@ -1,0 +1,11 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\API_WebApplication",
+    "\\API_WebApplication\\API_WebApplication",
+    "\\API_WebApplication\\API_WebApplication\\Controllers",
+    "\\API_WebApplication\\API_WebApplication\\Controllers\\Chat"
+  ],
+  "SelectedNode": "\\API_WebApplication\\API_WebApplication\\Program.cs",
+  "PreviewInSolutionExplorer": false
+}
